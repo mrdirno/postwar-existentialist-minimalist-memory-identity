@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-minimalist-memory-identity",
+  "title": "The Architecture of Aftermath",
+  "tagline": "A man returns to a forgotten house to reconstruct a self from the silence of postwar France, where every object holds the weight of an unasked question.",
+  "target_words": 79475,
+  "actual_words": 79475,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Reconstruction of Self",
+    "The Weight of Silence",
+    "The Geography of Memory",
+    "Inherited Emptiness"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Telegraph Wire's Suture",
+      "words": 7225
+    },
+    {
+      "ch": 2,
+      "title": "Flour on the Forearms",
+      "words": 7225
+    },
+    {
+      "ch": 3,
+      "title": "The Market's Silent Edge",
+      "words": 7225
+    },
+    {
+      "ch": 4,
+      "title": "A Question Too Large",
+      "words": 7225
+    },
+    {
+      "ch": 5,
+      "title": "The Barn's Failing Memory",
+      "words": 7225
+    },
+    {
+      "ch": 6,
+      "title": "Tools on Velvet",
+      "words": 7225
+    },
+    {
+      "ch": 7,
+      "title": "The Throat of the Lane",
+      "words": 7225
+    },
+    {
+      "ch": 8,
+      "title": "A Cathedral of Forgetting",
+      "words": 7225
+    },
+    {
+      "ch": 9,
+      "title": "The Road as Earned Face",
+      "words": 7225
+    },
+    {
+      "ch": 10,
+      "title": "The Taste of Duplication",
+      "words": 7225
+    },
+    {
+      "ch": 11,
+      "title": "A Map of Pressure",
+      "words": 7225
+    }
+  ]
+}
